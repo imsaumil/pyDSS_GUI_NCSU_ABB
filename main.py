@@ -9,17 +9,11 @@ font_awesome = (
     "https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css"
 )
 
-<<<<<<< HEAD
-file_path = os.path.dirname(os.path.abspath(__file__))
 
-logo_img = os.path.join(file_path, 'assets', 'sponsor_logo.png')
-=======
 # Defining file path
 file_path = os.path.dirname(os.path.abspath(__file__))
 
 logo_img = os.path.join(file_path, 'assets', 'sponsor_logo.png')
-
->>>>>>> bfd969e0684cfe3c9fafe60a24ec6e01b5cfefd1
 logo_base64 = base64.b64encode(open(logo_img, 'rb').read()).decode('ascii')
 
 # Starting up the dash app
@@ -76,8 +70,4 @@ app.layout = dbc.Container([
 ], fluid=True)
 
 if __name__ == "__main__":
-<<<<<<< HEAD
-    app.run(debug=True, port=8070, threaded=True)
-=======
-    app.run(debug=False, port=8060, host='0.0.0.0')
->>>>>>> bfd969e0684cfe3c9fafe60a24ec6e01b5cfefd1
+    app.run(debug=False, port=8070, threaded=True)
