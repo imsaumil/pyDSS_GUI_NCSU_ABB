@@ -1,0 +1,15 @@
+Hour=0, Sec=0, ControlIter=1, Element=Regulator.reg1a, Action= CHANGED 2 TAPS TO 1.0125.
+Hour=0, Sec=0, ControlIter=2, Element=Regulator.reg4c, Action= CHANGED 1 TAPS TO 1.00625.
+Hour=0, Sec=0, ControlIter=2, Element=Regulator.reg4b, Action= CHANGED 1 TAPS TO 1.00625.
+Hour=0, Sec=0, ControlIter=2, Element=Regulator.reg4a, Action= CHANGED 1 TAPS TO 1.00625.
+Hour=0, Sec=0, ControlIter=2, Element=Regulator.reg3c, Action= CHANGED 1 TAPS TO 1.00625.
+Hour=0, Sec=0, ControlIter=2, Element=Regulator.reg3a, Action= CHANGED 1 TAPS TO 1.00625.
+Hour=0, Sec=0, ControlIter=2, Element=Regulator.reg2a, Action= CHANGED 1 TAPS TO 1.00625.
+Hour=0, Sec=0, ControlIter=3, Element=Regulator.reg4a, Action= CHANGED 1 TAPS TO 1.0125.
+Hour=0, Sec=0, ControlIter=1, Element=Regulator.reg1a, Action= CHANGED 16 TAPS TO 1.1.
+Hour=0, Sec=0, ControlIter=2, Element=Regulator.reg4c, Action= CHANGED 16 TAPS TO 1.1.
+Hour=0, Sec=0, ControlIter=2, Element=Regulator.reg4b, Action= CHANGED 16 TAPS TO 1.1.
+Hour=0, Sec=0, ControlIter=2, Element=Regulator.reg4a, Action= CHANGED 16 TAPS TO 1.1.
+Hour=0, Sec=0, ControlIter=2, Element=Regulator.reg3c, Action= CHANGED 16 TAPS TO 1.1.
+Hour=0, Sec=0, ControlIter=2, Element=Regulator.reg3a, Action= CHANGED 16 TAPS TO 1.1.
+Hour=0, Sec=0, ControlIter=2, Element=Regulator.reg2a, Action= CHANGED 16 TAPS TO 1.1.
