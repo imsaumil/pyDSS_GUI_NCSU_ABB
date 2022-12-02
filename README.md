@@ -9,10 +9,8 @@
 
 ### Installation Steps:
 ##### 1) Create conda environment using Anaconda command prompt: `conda create -n myenv python=3.10`
-<br />
 
 <p style="text-align: center;">OR</p>
-
 
 ##### 1) Open new project on PyCharm.
 - Select new environment created using : **Conda**
