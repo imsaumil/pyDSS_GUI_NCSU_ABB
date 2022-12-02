@@ -28,7 +28,7 @@ cd .\pyDSS_GUI_NCSU_ABB
 pip install -r .\requirements.txt
 ```
 
-##### 3) Verify successful installation of required dependencies and launch application using following command.
+##### 3) Verify successful installation of required dependencies and launch application using following command on the terminal.
 ```
 python main.py
 ```
