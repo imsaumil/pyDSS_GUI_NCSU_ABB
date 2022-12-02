@@ -33,14 +33,14 @@ pip install -r .\requirements.txt
 python main.py
 ```
 
-##### 4) Click on any of links to check the locally hosted GUI or open browser and add following address:
+##### 4) Click on any of links in the terminal to check the locally hosted GUI or open browser and add following address:
 ```
 127.0.0.1:8070
 ```
 
 ### Voilà !
 
-> User can now choose to play around with the developed GUI and interactively add protection element such as fuse with changeable rated fuse current and TCC curves, add DERs such as PV with different slider changeable penetration levels, introduce faults in the system to assess the relative fault contribution from each individual PVs and its effects on the  protection elements in the system.
+> User can now choose to play around with the developed GUI and interactively add protection element such as fuse with changeable rated fuse current and TCC curves, add DERs such as PV with different slider changeable penetration levels, introduce faults in the system to assess the relative fault contribution from each individual PVs and its effects on the protection elements present in the system.
 
 
 ### Sneak peek of the developed GUI:
