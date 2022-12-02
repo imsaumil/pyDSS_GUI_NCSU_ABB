@@ -44,4 +44,4 @@ python main.py
 
 
 ### Sneak peek of developed GUI:
-![Alt text](relative/path/to/img.jpg?raw=true "Title")
+![Alt text](assets/sneakpeek.png?raw=true "Title")
