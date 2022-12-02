@@ -43,5 +43,5 @@ python main.py
 > User can now choose to play around with the developed GUI and interactively add protection element such as fuse with changeable rated fuse current and TCC curves, add DERs such as PV with different slider changeable penetration levels, introduce faults in the system to assess the relative fault contribution from each individual PVs and its effects on the  protection elements in the system.
 
 
-### Sneak peek of developed GUI:
+### Sneak peek of the developed GUI:
 ![Alt text](assets/sneakpeek.png?raw=true "Title")
